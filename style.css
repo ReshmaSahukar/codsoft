@@ -1,0 +1,31 @@
+table { 
+    border: 15px solid rgb(5, 22, 72); 
+    margin-left: 10%; 
+    margin-right: 10%; 
+} 
+
+input[type="button"] { 
+    width: 80%; 
+    padding: 15px 20px; 
+    background-color: rgb(164, 205, 235); 
+    color: rgb(255, 0, 132); 
+    font-size: 34px; 
+    font-weight: italic; 
+    border: none; 
+    border-radius: 20px; 
+    box-shadow: 0px 20px 15px rgba(84,84,84,0.5);
+} 
+
+input[type="text"] { 
+    padding: 20px 35px; 
+    font-size: 32px; 
+    font-weight: italic; 
+    border: none; 
+    border-radius: 35px; 
+    border: 15px solid rgb(185, 197, 223); 
+} 
+input[type="table"]
+{
+    border: 10px solid rgb(5, 22, 72);
+    box-shadow: 20%;
+}
